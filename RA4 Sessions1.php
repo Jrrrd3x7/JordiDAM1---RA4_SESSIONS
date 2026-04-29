@@ -24,7 +24,7 @@ if (isset($_POST['reset'])) {
 <html>
 
 <head>
-    <h1>Modify array saved in session</h1>
+    <h1>Modify Array Saved In Session</h1>
 </head>
 
 <body>
